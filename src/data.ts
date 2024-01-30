@@ -41505,4 +41505,3 @@ export const employees: Employee[] = [
     uniqueId: "712020:cd3e5dc9-bd29-44be-b556-d45e7f32863c-50",
   },
 ]
-  .filter((u) => u.userName !== "Former user" && u.userName !== "former.user")
